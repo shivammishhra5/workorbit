@@ -2,6 +2,8 @@
 
 WorkOrbit is a full-featured, multi-module Human Resource Management (HRM) SaaS platform built on **Laravel 12** (backend) and **React 19 + Inertia.js + TypeScript** (frontend), styled with **Tailwind CSS v4** and **shadcn/Radix UI** components. It ships with a guided web installer, role & permission management, subscription billing with 20+ payment gateways, and dozens of HR modules covering the full employee lifecycle — from recruitment to offboarding.
 
+https://workorbit.kartikcomtech.in/
+
 ---
 
 ## Table of Contents
